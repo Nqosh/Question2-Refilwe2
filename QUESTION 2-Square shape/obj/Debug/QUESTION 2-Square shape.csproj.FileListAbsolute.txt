@@ -1,0 +1,7 @@
+C:\Users\CT301728\source\repos\QUESTION 2-Square shape\QUESTION 2-Square shape\bin\Debug\QUESTION 2-Square shape.exe.config
+C:\Users\CT301728\source\repos\QUESTION 2-Square shape\QUESTION 2-Square shape\bin\Debug\QUESTION 2-Square shape.exe
+C:\Users\CT301728\source\repos\QUESTION 2-Square shape\QUESTION 2-Square shape\bin\Debug\QUESTION 2-Square shape.pdb
+C:\Users\CT301728\source\repos\QUESTION 2-Square shape\QUESTION 2-Square shape\obj\Debug\QUESTION 2-Square shape.csproj.AssemblyReference.cache
+C:\Users\CT301728\source\repos\QUESTION 2-Square shape\QUESTION 2-Square shape\obj\Debug\QUESTION 2-Square shape.csproj.CoreCompileInputs.cache
+C:\Users\CT301728\source\repos\QUESTION 2-Square shape\QUESTION 2-Square shape\obj\Debug\QUESTION 2-Square shape.exe
+C:\Users\CT301728\source\repos\QUESTION 2-Square shape\QUESTION 2-Square shape\obj\Debug\QUESTION 2-Square shape.pdb
